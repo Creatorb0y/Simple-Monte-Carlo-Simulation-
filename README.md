@@ -11,3 +11,4 @@ This Python script runs a **Monte Carlo simulation** to predict potential stock 
 
 ## How to Run
 Click the **"Open in Colab"** badge above to run the simulation directly in your browser!
+If this does not work then open your preffered notebook and copy and paste the code to see the magic happen!
