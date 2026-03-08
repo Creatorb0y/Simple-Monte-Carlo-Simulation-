@@ -1,4 +1,4 @@
-# Simple Monte Carlo Simulation 📈
+ Simple Monte Carlo Simulation Description 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Creatorb0y/Simple-Monte-Carlo-Simulation-/blob/main/monte_carlo_sim.ipynb)
 
 This Python script runs a simulation to predict potential stock price paths over a 252-day trading year. It uses 1,000 trials to create a probability distribution of final prices.
