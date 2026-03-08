@@ -4,7 +4,7 @@
 
 This Python script runs a simulation to predict potential stock price paths over a 252-day trading year. It uses 1,000 trials to create a probability distribution of final prices.
 
-This modle includes a 2% "Black Swan" probability where the market can crash.
+This model includes a 2% "Black Swan" probability where the market can crash.
 this model also uses the "Square Root of Time" rule to convert annual volatility (28%) into daily fluctuations.
 The model tracks price changes daily, allowing bankruptcy to occur during the trial
 
