@@ -12,3 +12,10 @@ How to Run:
 
 Click the "Open in Colab" badge above to run the simulation directly in your browser!
 If this does not work then open your preffered notebook and copy and paste the code to see the magic happen!
+
+Editing:
+I encourage everyone to edit this code and play around with the numbers and have fun!
+
+Please give suggestions and feedback or just share your experience with this code
+
+Thank you!
